@@ -14,7 +14,7 @@ body {
 
 h1{
   font-family: Billabong;
-  font-size: 60px;
+  font-size: 80px;
 }
 
 p, a{
@@ -22,7 +22,7 @@ p, a{
 }
 
 .columnas{
-  width: 30%;
+  width: 500px;
 }
 a{
   font-size: 15px;
