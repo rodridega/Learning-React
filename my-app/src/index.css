@@ -1,0 +1,31 @@
+@font-face {
+  font-family: Billabong;
+  src: url(../fonts/Billabong-Font/Billabong.ttf);
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1{
+  font-family: Billabong;
+  font-size: 60px;
+}
+
+p, a{
+  font-size: 8px;
+}
+
+.columnas{
+  width: 30%;
+}
+a{
+  font-size: 15px;
+  text-decoration: none;
+  color: black;
+}
